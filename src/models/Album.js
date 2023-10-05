@@ -41,6 +41,13 @@ const albums = [
     price: 39.99,
     image_url: "https://aka.ms/albums-containerappslogo",
   },
+  {
+    id: 7,
+    title: "Test album",
+    artist: "Testers",
+    price: 39.99,
+    image_url: "https://aka.ms/albums-containerappslogo",
+  },
 ];
 
 const getAlbums = async function () {
